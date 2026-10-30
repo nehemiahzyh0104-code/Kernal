@@ -1,1 +1,1 @@
-# modifird linux kernel 7.3.0
+# modified linux kernel 7.3.0
